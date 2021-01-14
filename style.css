@@ -37,9 +37,9 @@ ul li a{
 
 #w-jacket img{
     border-radius: 1em;
-    width: 15em;
+    width: 70%;
     height: 16em;
-    padding: 10px 20px;
+    padding: 0.5em 1em;
     background-color: #F1F1F1;
 }
 .w-card-footer{
@@ -54,7 +54,7 @@ ul li a{
 
 #m-jacket img{
     border-radius: 1em;
-    width: 15em;
+    width: 70%;
     height: 16em;
     padding: 10px 20px;
     background-color: #F1F1F1;
