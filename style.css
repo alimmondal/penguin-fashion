@@ -1,0 +1,87 @@
+body{
+    background-color: #E6E6E6;
+}
+section{
+    border-left: 2px solid #D7D7D7;
+    border-right: 2px solid #D7D7D7;
+   
+}
+
+.penguin-logo{
+    width: 250px;    
+}
+ul li a{
+    color: #000000;
+}
+.cont-color{
+    background-color: #FFFBF0;
+}
+#hero h1{
+    font-size: 50px;
+    line-height: 50px;
+    
+}
+#hero img{
+    height: 30em;
+}
+
+.every-btn{
+    font-size: 12px;
+    padding: 0.9em 2em;
+    background-color:#96AF31;
+    border: 0pc;
+}
+.w-card{
+    border:0;
+}
+
+#w-jacket img{
+    border-radius: 1em;
+    width: 15em;
+    height: 16em;
+    padding: 10px 20px;
+    background-color: #F1F1F1;
+}
+.w-card-footer{
+    background-color: white;
+    border: 0;
+}
+.round-con{
+    border-radius: 3em;
+}
+
+
+
+#m-jacket img{
+    border-radius: 1em;
+    width: 15em;
+    height: 16em;
+    padding: 10px 20px;
+    background-color: #F1F1F1;
+}
+
+#call-to-action img{
+    width: 30em;
+}
+
+.c-action{
+    width:3em;
+    height: 3em;
+}
+p{
+    font-size: 0.8em;
+}
+
+#footer{
+    background-color: #FFFBF0;
+}
+
+
+
+
+
+
+
+
+
+
